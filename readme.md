@@ -1,42 +1,17 @@
 # Portfolio Website
 
-This is a dark-light contrast website for a portfolio. It is related to being a web developer, but can be edited to be for any type of portfolio. It includes a bit of custom JavaScript for the typewriter effect and uses a script called "Lightbox" for the project modals.
-
-<img src="./images/screen.png" />
+Welcome to my portfolio website! This project showcases my skills, projects, and experience as a Front-End Developer. Built with HTML, CSS, JavaScript, and Bootstrap, this site serves as a platform for potential clients and employers to view my work.
 
 ## Features
 
-- Dark and light contrast
-- Responsive design
-- Full height header/hero
-- Background image overlays
-- Typewriter effect in header
-- Lightbox modals for projects
-- Progress bar stats
-- Font awesome icons
+- **Responsive Design**: Adapts to different screen sizes for an optimal viewing experience.
+- **Smooth Animations**: Subtle animations enhance user interaction without being overwhelming.
+- **Project Showcase**: Highlights various projects with links and descriptions.
+- **Contact Information**: Easily accessible contact options to reach out for collaboration or inquiries.
 
-## Usage
+## Technologies Used
 
-This website is built with [Bootstrap](https://getbootstrap.com/) and [Sass](https://sass-lang.com/). It uses [Font Awesome](https://fontawesome.com/) for icons.
-
-In order to customize this website, you need to install [Node.js](https://nodejs.org/en/). Then, clone this repository and run:
-
-```bash
-npm install
-```
-
-This will install Bootstrap, Sass and Font Awesome. To build your CSS files from Sass, run:
-
-```bash
-npm run sass:build
-```
-
-To watch your Sass files for changes, run:
-
-```bash
-npm run sass:watch
-```
-
-You can add Bootstrap variables to the `bootstrap.scss` file. You can look at the file `node_modules/bootstrap/dist/scss/_variables.scss` for a list of all the variables. Do NOT edit the `variables.scss` file directly, as it will be overwritten when you update Bootstrap.
-
-To add your own custom styles, use the `styles.scss` file.
+- **HTML**: Structure of the web pages.
+- **CSS**: Styling and layout of the website.
+- **JavaScript**: Interactive elements and functionalities.
+- **Bootstrap**: Framework for responsive design and UI components.
